@@ -8,3 +8,4 @@ Links:
 2. Make Pixel Art sprites - https://www.piskelapp.com/
 
 Resources:
+1. website for tutorials,assets and resources - https://marcosecchi.github.io/resources/pages/graphics_pixel-art.html
